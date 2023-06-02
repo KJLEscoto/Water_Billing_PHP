@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Admin | Log in</title>
+  <title>Employee | Log in</title>
   <link rel="stylesheet" href="../dist/output.css">
   <link rel="shortcut icon" type="x-icon" href="../images/logo.jpg">
 </head>
@@ -15,7 +15,7 @@
     <img class="w-[400px] rounded-l-2xl" src="../images/logo.jpg" alt="logo">
     <div class="w-[400px] h-auto bg-[#D9D9D9] rounded-r-2xl ">
       <div class="text-center justify-center">
-        <h4 class="text-[#0A6580] font-bold text-3xl mt-10">ADMIN</h4>
+        <h4 class="text-[#0A6580] font-bold text-3xl mt-10">EMPLOYEE</h4>
         <p class="text-xl font-medium mt-3 text-[#0A6580]">Please enter your credentials.</p>
         <form action="index.php" class="mt-5 justify-center">
           <div class="flex justify-center mt-7">
